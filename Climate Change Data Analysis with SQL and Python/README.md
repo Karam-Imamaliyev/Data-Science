@@ -37,7 +37,7 @@ The weighting of these factors is based on a **modern climate model** that takes
 ## Key Results
 
 ### CO2-Emissionen und Temperatur
-Die CO2-Emissionen weltweit steigen kontinuierlich. Parallel dazu sind auch die Durchschnittstemperaturen deutlich angestiegen. In den letzten 20 Jahren ist ein klarer Trend zu verzeichnen, dass **höhere CO2-Werte mit steigenden Temperaturen korrelieren**.
+Die CO2-Emissionen weltweit steigen dauerlich. Parallel dazu sind auch die Durchschnittstemperaturen deutlich angestiegen. In den letzten 20 Jahren ist ein klarer Trend zu verzeichnen, dass **höhere CO2-Werte mit steigenden Temperaturen korrelieren**.
 ### CO2 Emissions and Temperature
 CO2 emissions worldwide continue to rise. At the same time, average temperatures have also significantly increased. Over the past 20 years, there has been a clear trend showing that **higher CO2 levels correlate with rising temperatures**.
 
