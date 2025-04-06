@@ -2,9 +2,9 @@
 #  Climate Change and Global Risks
 
 ## Einleitung
-Der Klimawandel ist die größte Bedrohung für die Menschheit im 21. Jahrhundert. Unsere Analyse basiert auf jahrelangen Daten, die Extreme Wetterereignisse, CO2-Emissionen und Temperaturveränderungen weltweit untersuchen. Mit der **DER KING Entschließungsmaschine** haben wir eine präzise Analyseplattform entwickelt, die aus den Daten konkrete Handlungsaufforderungen ableitet.
+Der Klimawandel ist die größte Bedrohung für die Menschheit im 21. Jahrhundert. Unsere Analyse basiert auf jahrelangen Daten, die Extreme Wetterereignisse, CO2-Emissionen und Temperaturveränderungen weltweit untersuchen. Mit der **Entschließungsmaschine** haben wir eine präzise Analyseplattform entwickelt, die aus den Daten konkrete Handlungsaufforderungen ableitet.
 ## Introduction
-Climate change is the greatest threat to humanity in the 21st century. Our analysis is based on years of data examining extreme weather events, CO2 emissions, and temperature changes globally. With the **DER KING Decision Engine**, we have developed an accurate analytical platform that derives concrete actions from the data.
+Climate change is the greatest threat to humanity in the 21st century. Our analysis is based on years of data examining extreme weather events, CO2 emissions, and temperature changes globally. The **Decision Engine**, we have developed an accurate analytical platform that derives concrete actions from the data.
 
 ---
 
