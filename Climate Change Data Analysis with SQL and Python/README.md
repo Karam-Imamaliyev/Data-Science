@@ -48,9 +48,9 @@ The number of extreme weather events has exponentially increased in recent years
 
 ---
 
-## 10. Pivot: Klimawandel und andere Metriken
-### 10. Pivot: Climate Change and Other Metrics
-Zum Abschluss wurde die Analyse mit den **Durchschnittswerten** der CO2-Emissionen, Durchschnittstemperaturen und extremen Wetterereignissen für jedes Jahr verglichen. Die Ergebnisse sind in einem **zwei-achsigen Diagramm** dargestellt, das die Entwicklung dieser Indikatoren im Laufe der Jahre zeigt.
+## Pivot: Klimawandel und andere Metriken
+### Pivot: Climate Change and Other Metrics
+Die Analyse wurde zum Abschluss   mit den **Durchschnittswerten** der CO2-Emissionen, Durchschnittstemperaturen und extremen Wetterereignissen für jedes Jahr verglichen. Die Ergebnisse sind in einem **zwei-achsigen Diagramm** dargestellt, das die Entwicklung dieser Indikatoren im Laufe der Jahre zeigt.
 ### Final Pivot
 Finally, the analysis compared the **average values** of CO2 emissions, average temperatures, and extreme weather events for each year. The results are presented in a **dual-axis chart** that shows the development of these indicators over time.
 
